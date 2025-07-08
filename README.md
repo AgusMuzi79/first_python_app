@@ -2,6 +2,8 @@
 
 Python project to visualize volcanoes and population on a map.
 
+📍 **[View Interactive Map on GitHub Pages](https://agusmuzi79.github.io/first_python_app/)**
+
 # 🌋 Volcanoes and Population Map
 
 This project was developed as part of the [The Python Mega Course](https://www.udemy.com/course/former-python-mega-course-build-10-real-world-applications/) on Udemy. The application generates an interactive map that displays:
