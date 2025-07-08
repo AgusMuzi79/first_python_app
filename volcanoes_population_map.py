@@ -61,8 +61,8 @@ folium.GeoJson(
     },
 ).add_to(fgp)
 
-fgv.add_to(map)
 fgp.add_to(map)
+fgv.add_to(map)
 folium.LayerControl().add_to(map)
 
 
